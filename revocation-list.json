@@ -5,14 +5,6 @@
     "issuer": "https://raw.githubusercontent.com/DrAlibi12/bfcerts/main/baufest-profile.json",
     "revokedAssertions": [
         {
-            "id": "urn:uuid:5c02cd48-9737-405f-8e52-5b89a4f97f9d",
-            "revocationReason": "Error en datos ingresados"
-        },
-        {
-            "id": "5c02cd48-9737-405f-8e52-5b89a4f97f9d",
-            "revocationReason": "Error en datos ingresados"
-        },
-        {
             "id": "https://bitcerts-backend.azurewebsites.net/certificates/json/5c02cd48-9737-405f-8e52-5b89a4f97f9d",
             "revocationReason": "Error en datos ingresados"
         }
