@@ -3,5 +3,5 @@
     "id": "https://raw.githubusercontent.com/DrAlibi12/bfcerts/main/baufest-revocation-list.json",
     "type": "RevocationList",
     "issuer": "https://raw.githubusercontent.com/DrAlibi12/bfcerts/main/baufest-profile.json",
-    "revokedAssertions": []
+    "revokedAssertions": ["5c02cd48-9737-405f-8e52-5b89a4f97f9d"]
 }
