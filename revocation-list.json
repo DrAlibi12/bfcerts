@@ -3,5 +3,10 @@
     "id": "https://raw.githubusercontent.com/DrAlibi12/bfcerts/main/baufest-revocation-list.json",
     "type": "RevocationList",
     "issuer": "https://raw.githubusercontent.com/DrAlibi12/bfcerts/main/baufest-profile.json",
-    "revokedAssertions": ["5c02cd48-9737-405f-8e52-5b89a4f97f9d"]
+    "revokedAssertions": [
+        {
+            "id": "https://bitcerts-backend.azurewebsites.net/certificate-validation/5c02cd48-9737-405f-8e52-5b89a4f97f9d",
+            "revocationReason": "Error en datos ingresados"
+        }
+    ]
 }
